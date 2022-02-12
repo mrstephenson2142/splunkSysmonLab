@@ -36,9 +36,9 @@ Don't use this as a production environment, keep it segmented, be safe, do not t
 
 # Getting Started 
 
-There is a pretty extensive guide on the setup There are several scripts written that do the majority of the configuration for you, but occasionally you'll still have to enter an IP address, open PowerShell and run scripts, or install an operating system. 
+There is a pretty extensive guide on the setup in this repo, and there are several scripts written that do the majority of the configuration for you. During the setup, you will still have to enter IP addresses, open PowerShell, run scripts, and install operating systems. 
 
-This lab uses evaluation copies of Splunk and the Windows Operating Systems, so you'll have to recreate it every once in a while. 
+This lab uses evaluation copies of Splunk Enterprise and the Windows Operating Systems, so you'll have to recreate it every once in a while. 
 
 - [Set up the Environment](./Setup.md)
 - [Perform Tests](./Testing.md)
